@@ -1,0 +1,17 @@
+body{
+    background-color: #1d1a39;
+}
+.logInDiv{
+background-color: #e8bcb9;
+}
+.sorryMsg{
+    background-color: #f39f5A;
+    display:inline;
+}
+.login{
+    background-color: #fbe4d8;
+color: #ae445a;
+}
+.middle{
+    text-align: center;
+}
